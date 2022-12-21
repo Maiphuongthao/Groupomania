@@ -56,7 +56,7 @@ const Navbar = () => {
             },
           }}
         >
-          Sociopedia
+          Groupomania
         </Typography>
         {isNonMobileScreens && (
           <FlexBetween
